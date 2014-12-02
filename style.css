@@ -390,13 +390,14 @@ h6 {
 .featured {
 	display: inline-block;
 	background-color: #9B848A;
-	height: 210px;
+	height: 205px;
 	width: 200px;
 	-moz-border-radius: 85px 40px / 40px 85px;
 	border-radius: 85px 40px / 40px 85px;
-	padding: 10px;
-	border: 8px #4F2C42;
+	padding: 5px;
+	border: 2px solid #4F2C42;
 	margin: 25px;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 .featured2 {
