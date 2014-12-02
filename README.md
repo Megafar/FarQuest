@@ -15,6 +15,7 @@ For screenshots, head over to http://www.megafardesigns.com/farquest/
 12/2/2014
 
 Added new no-sidebar page template option
+
 Added border and shadow to featured pages blocks
 
 = 1.0.0 =
