@@ -10,8 +10,13 @@ For screenshots, head over to http://www.megafardesigns.com/farquest/
 
 == Changelog ==
 ---------------
+= 1.0.1 = 
 
-= 1.0 =
+12/2/2014
+
+Added new no-sidebar page template option
+
+= 1.0.0 =
 
 12/1/2014
 
