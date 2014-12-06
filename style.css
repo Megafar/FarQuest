@@ -17,6 +17,7 @@ This theme is based off of the ultra minimalist starter theme _tk, which uses Tw
 
 /* Import the necessary TK Bootstrap WP CSS additions */
 @import url( includes/css/bootstrap-wp.css );
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
 
 
 
@@ -200,7 +201,7 @@ object {
 */
 
 body {
-	font-family: "Garamond", Garamond, Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	padding-top: 90px;
 	background-color: #382f30;
 	word-wrap: break-word;
@@ -208,6 +209,7 @@ body {
 
 .main-content {
 	background-color: #e3e3e3;
+	width:100%;
 }
 
 .home #content {
@@ -234,7 +236,7 @@ body {
 
 .navbar-default .navbar-nav > li > a {
 	color: #E3E3E3;
-	font-family: "Garamond", Helvetica, Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 24px;
 	line-height: 1.42857;
 }
@@ -300,7 +302,7 @@ a:hover {
 	white-space: nowrap;
 	color: #4F2C42;
 	background-color: #E3E3E3;
-	font-family: "Garamond", Helvetica, Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 24px;
 }
 
@@ -323,7 +325,7 @@ a:hover {
 /******   HEADER   ******/
 .site-branding .site-title a {
 	padding-top: 60px;
-	font-family: "Garamond";
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 70px;
 	color: #E3E3E3;
 	line-height: 1.42857;
@@ -339,37 +341,37 @@ a:hover {
 
 /*****  FONT  ******/
 p {
-	font-family: "Garamond", Garamond, Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 18px;
 }
 
 h1 {
-	font-family: "Garamond", Garamond, Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 44px;
 }
 
 h2 {
-	font-family: "Garamond", Garamond, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 38px;
 }
 
 h3 {
-	font-family: "Garamond", Garamond, Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 32px;
 }
 
 h4 {
-	font-family: "Garamond", Garamond, Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 26px;
 }
 
 h5 {
-	font-family: "Garamond", Garamond, Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 20px;
 }
 
 h6 {
-	font-family: "Garamond", Garamond, Arial, sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 14px;
 }
 
@@ -390,14 +392,13 @@ h6 {
 .featured {
 	display: inline-block;
 	background-color: #9B848A;
-	height: 205px;
+	height: 210px;
 	width: 200px;
 	-moz-border-radius: 85px 40px / 40px 85px;
 	border-radius: 85px 40px / 40px 85px;
-	padding: 5px;
-	border: 2px solid #4F2C42;
+	padding: 10px;
+	border: 8px #4F2C42;
 	margin: 25px;
-	box-shadow: 10px 10px 5px #888888;
 }
 
 .featured2 {
