@@ -10,6 +10,18 @@ For screenshots, head over to http://www.megafardesigns.com/farquest/
 
 == Changelog ==
 ---------------
+= 1.0.3 = 
+
+12/10/2014
+
+Updated style.css, changed content background color to white
+
+= 1.0.2 = 
+
+12/8/2014
+
+Added Google font - Droid sans
+
 = 1.0.1 = 
 
 12/2/2014
